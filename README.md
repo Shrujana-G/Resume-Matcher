@@ -67,13 +67,14 @@ cd resume-matcher
 poetry install
 
 ###Running the App
-bash
-
+'''bash
 poetry run python app.py
+
+
 Then open your browser and visit:
 http://127.0.0.1:5000
 
-## 🧩 Applications
+### 🧩 Applications
 
 This project has multiple real-world applications, including:
 
