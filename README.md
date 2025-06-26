@@ -52,6 +52,17 @@ A minimal UI is built using HTML, CSS, and JavaScript. Features include:
 
 ---
 
+## 🧩 Applications
+
+This project has multiple real-world applications, including:
+
+- ✅ **Job Seekers**: Self-assess how well their resume fits a specific job posting before applying.
+- ✅ **Career Coaches & Counselors**: Help clients tailor their resumes for better targeting and relevance.
+- ✅ **Recruiters**: Perform quick alignment checks between resumes and open roles.
+- ✅ **ATS Simulation for Learning**: Understand how AI-driven systems evaluate content similarity in hiring workflows.
+- ✅ **Portfolio Demonstration**: Showcase full-stack AI integration skills for resumes or technical interviews.
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -74,12 +85,3 @@ poetry run python app.py
 Then open your browser and visit:
 http://127.0.0.1:5000
 
-### 🧩 Applications
-
-This project has multiple real-world applications, including:
-
-- ✅ **Job Seekers**: Self-assess how well their resume fits a specific job posting before applying.
-- ✅ **Career Coaches & Counselors**: Help clients tailor their resumes for better targeting and relevance.
-- ✅ **Recruiters**: Perform quick alignment checks between resumes and open roles.
-- ✅ **ATS Simulation for Learning**: Understand how AI-driven systems evaluate content similarity in hiring workflows.
-- ✅ **Portfolio Demonstration**: Showcase full-stack AI integration skills for resumes or technical interviews.
